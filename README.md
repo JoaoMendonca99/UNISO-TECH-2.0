@@ -71,9 +71,6 @@ npm run dev
 # Build para produção
 npm run build
 
-# Executar produção
-npm start
-```
 
 ## 📁 Estrutura do Projeto
 
@@ -142,7 +139,11 @@ O projeto está configurado para deploy automático na Vercel.
 
 ## 🤝 Contribuição
 
-Este projeto foi desenvolvido seguindo as especificações do documento UNISO_TECH_Site_Spec.pdf e utiliza as imagens fornecidas como referência de conteúdo.
+- João Gustavo Mendonça | Desemvolvedor
+- Kauã França Ferreira | Desemvolvedor
+- Arthur Raposo de Castro | Desemvolvedor
+- Erick Souto Godoi | Desemvolvedor
+- Pedro Henrique Bianco | Desemvolvedor
 
 ## 📄 Licença
 
