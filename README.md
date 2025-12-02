@@ -128,14 +128,6 @@ Não são necessárias para a versão atual.
 ### Deploy
 O projeto está configurado para deploy automático na Vercel.
 
-## 📝 Próximos Passos
-
-- [ ] Sistema de autenticação
-- [ ] Backend com banco de dados
-- [ ] Sistema de votação real
-- [ ] Notificações em tempo real
-- [ ] Chat entre colaboradores
-- [ ] Sistema de mentoria
 
 ## 🤝 Contribuição
 
